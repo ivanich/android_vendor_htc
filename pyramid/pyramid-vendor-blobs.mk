@@ -75,4 +75,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/pyramid/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc/pyramid/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
   vendor/htc/pyramid/proprietary/lib/libmpl.so:system/lib/libmpl.so \
-  vendor/htc/pyramid/proprietary/lib/libril.so:system/lib/libril.so
+  vendor/htc/pyramid/proprietary/lib/libril.so:system/lib/libril.so \
+  vendor/htc/pyramid/proprietary/lib/libjni_filtershow_filters.so:system/lib/libjni_filtershow_filters.so \
+  vendor/htc/pyramid/proprietary/lib/libjni_mosaic.so:system/lib/libjni_mosaic.so \
+  vendor/htc/pyramid/proprietary/lib/liblightcycle.so:system/lib/liblightcycle.so \
+  vendor/htc/pyramid/proprietary/app/GalleryGoogle_Sultan.apk:system/app/GalleryGoogle_Sultan.apk
