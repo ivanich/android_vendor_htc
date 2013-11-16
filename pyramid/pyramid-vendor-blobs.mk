@@ -58,6 +58,9 @@ PRODUCT_COPY_FILES += \
   vendor/htc/pyramid/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
   vendor/htc/pyramid/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
   vendor/htc/pyramid/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+  vendor/htc/pyramid/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
+  vendor/htc/pyramid/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
+  vendor/htc/pyramid/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
   vendor/htc/pyramid/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc/pyramid/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
   vendor/htc/pyramid/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
